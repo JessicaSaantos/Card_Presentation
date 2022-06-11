@@ -58,14 +58,21 @@ a {
     color: var(--gray);
     text-decoration: none;
 
+    display: flex;
+    gap: .75rem;
     margin-top: .25rem;
+    justify-content: center;
+    align-items: center;
+}
+.git {
+    width: 20px;
 }
 p{
     margin-top: 2rem;
 }
 
 ul {
-    margin-top: 4rem;
+    margin-top: 2.5rem;
 
     list-style: none;
     display: flex;
