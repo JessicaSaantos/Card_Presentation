@@ -6,14 +6,13 @@
  ## Aprendizados:
  <p> 📚 Projeto feito para fins de exercício do CSS e HTML, foi  interessante estudar a ferramenta icomoon para usar pacote de icones convertido em código. Também usar  clip-path para criação de formas complexas no CSS. E método de centralização com display grid. </p>
 
-<p>  No desenvolvimento .
- </p>
 
  ### Status: *Concluído!* ✔️
- Objetivo principal do projeto está finalizado.
 
  ## Demonstração: 
 🎥📷
+
+![card](https://user-images.githubusercontent.com/98659450/177906216-47a33eb4-659d-43be-9b75-87a5991a8f25.png)
 
 
 ## Tecnologias Utilizadas:
