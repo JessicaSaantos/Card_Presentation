@@ -17,7 +17,5 @@
 
 ## Tecnologias Utilizadas:
 
-Marcação | Estilização | 
----|---|---
-Html | Css | 
-5 | 3 |
+* HTML 5
+* CSS 3
