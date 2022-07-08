@@ -1,12 +1,12 @@
 # Card_Presentation
  
- <div align='center'> Cartão Virtual de apresentação, com descrição do serviço oferecido e informções de contato </div>
+ <div align='center'> Cartão Virtual de apresentação, com pequena descrição e informções de contato. Com finalidade de realizar uma divulgação profissional. </div>
 
 ***
  ## Aprendizados:
- <p> 📚 Projeto feito para fins de exercicio no CSS interessante exercitar o uso da linguagem JavaScript para chamar a função time a cada intervalo de tempo, e manipular os dados para diferenciar segundos, minutos e horas com uso de estrutura condicional composta. </p>
+ <p> 📚 Projeto feito para fins de exercício do CSS e HTML, foi  interessante estudar a ferramenta icomoon para usar pacote de icones convertido em código. Também usar  clip-path para criação de formas complexas no CSS. E método de centralização com display grid. </p>
 
-<p>  No desenvolvimento do JS foram usados apenas algumas técnicas para apresentar a contagem, e funcionalidades como a função setInterval(), visto que esse método chama uma função em intervalos especificados no caso a cada 1 segundo ou 1000 milissegundos. Também o clearInterval() para pausar e parar a contagem. Dessa forma foi possível desenvolver as aplicações básicas de um cronômetro.
+<p>  No desenvolvimento .
  </p>
 
  ### Status: *Concluído!* ✔️
